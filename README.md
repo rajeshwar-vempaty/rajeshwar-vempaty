@@ -1,25 +1,31 @@
 ### About me 👋
 
-Hello there! 👋 I'm Rajeshwar, an Engineer turned Data Scientist, with a strong educational background and technical skill set. Passionate about turning data into actionable insights. I'm currently pursuing a Master of Science in Data Science from Fordham University, expected to graduate in May 2024.  
+Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst/Scientist, with a strong educational background and technical skill set. Passionate about turning data into actionable insights. I'm currently pursuing a Master of Science in Data Science from Fordham University, expected to graduate in May 2024.  
 
 ---
 
-## 🎓 Education
+### 🎓 Education
  
-- 🎓 Master of Science - Data Science @ Fordham University
+- 🎓 Master of Science - Data Science @ Fordham University, Lincoln Center, NY
   
-- 📚 [Post Graduate Program - Business Analytics](https://olympus.mygreatlearning.com/eportfolio) @ University of Texas, Austin ([Certificate](YOUR_CERTIFICATE_LINK_HERE))
+- 📚 [Post Graduate Program - Business Analytics](https://olympus.mygreatlearning.com/eportfolio) @ University of Texas, Austin
   
-- 🛠 [Bachelor of Engineering - Mechanical](YOUR_PROFILE_LINK_HERE) @ Anna University ([Certificate](YOUR_CERTIFICATE_LINK_HERE))
+- 🛠 Bachelor of Engineering - Mechanical @ Anna University, Chennai, India
 
 
 ---
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 
-Programming: Python, R, Bash, SQL  
-Statistical Analysis: Hypothesis Testing, Regression Analysis, Machine Learning Algorithms  
-...
+| Category | Technologies |
+|----------|--------------|
+| 🐍 **Programming** | Python, R, Bash, SQL |
+| 📊 **Statistical Analysis** | Hypothesis Testing, Regression Analysis, Machine Learning Algorithms, Time Series Analysis |
+| 📈 **Data Visualization** | Tableau, Matplotlib, Seaborn |
+| 🗄️ **Databases** | MySQL, MongoDB |
+| 💻 **CMMS** | SAP Material Management, SAP Plant Maintenance |
+| 🛠️ **Others** | Advanced Excel, KNIME, SAP ERP |
+
 
 ---
 
