@@ -1,15 +1,17 @@
 ### About me 👋
 
-Hello there! 👋 I'm Rajeshwar, a Mechanical Engineer turned Data Scientist, passionate about turning data into actionable insights. I specialize in statistical analysis, machine learning, and data visualization. I have around eight years of experience in Energy Sector as a Maintenance Engineer. 
+Hello there! 👋 I'm Rajeshwar, an Engineer turned Data Scientist, with a strong educational background and technical skill set. Passionate about turning data into actionable insights. I'm currently pursuing a Master of Science in Data Science from Fordham University, expected to graduate in May 2024.  
 
 ---
 
 ## 🎓 Education
+ 
+- 🎓 Master of Science - Data Science @ Fordham University
+  
+- 📚 [Post Graduate Program - Business Analytics](https://olympus.mygreatlearning.com/eportfolio) @ University of Texas, Austin ([Certificate](YOUR_CERTIFICATE_LINK_HERE))
+  
+- 🛠 [Bachelor of Engineering - Mechanical](YOUR_PROFILE_LINK_HERE) @ Anna University ([Certificate](YOUR_CERTIFICATE_LINK_HERE))
 
-Fordham University, Lincoln Center, NY  May 2024  
-Master of Science; Major in Data Science  3.80/4.00  
-University of Texas  Nov 2021  
-...
 
 ---
 
