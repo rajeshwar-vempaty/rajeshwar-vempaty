@@ -1,8 +1,6 @@
-### Hi there 👋
+### About me 👋
 
-# Rajeshwar Vempaty
-
-Hello there! 👋 I'm Rajeshwar, a Data Science enthusiast passionate about turning data into actionable insights. I specialize in statistical analysis, machine learning, and data visualization.
+Hello there! 👋 I'm Rajeshwar, a Mechanical Engineer turned Data Scientist, passionate about turning data into actionable insights. I specialize in statistical analysis, machine learning, and data visualization. I have around eight years of experience in Energy Sector as a Maintenance Engineer. 
 
 ---
 
