@@ -34,7 +34,10 @@ Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst
 
 ## 👨‍💼 Work Experience
 
-> **Note:** This section is a placeholder. Please update it with your work experience.
+> **Sembcorp Industries** - Your Role [[Spotlight Article](https://www.sembcorp.com/en/spotlight/article/india-sembcorp-energy-india-limited/)]
+ 
+- Assistant Manager - Business Development [2020 - 2022]
+- Senior Engineer - Maintenance [2014 - 2019]
 
 ...
 
