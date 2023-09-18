@@ -1,3 +1,6 @@
+## Rajeshwar Vempaty  [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/rajeshwar-vempaty-5b9a1734/))
+
+
 ### About me 👋
 
 Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst/Scientist, with a strong educational background and technical skill set. Passionate about turning data into actionable insights. I'm currently pursuing a Master of Science in Data Science from Fordham University, expected to graduate in May 2024.  
