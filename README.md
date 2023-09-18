@@ -40,7 +40,12 @@ Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst
 - Assistant Manager - Business Development [2020 - 2022]
 - Senior Engineer - Maintenance & Construction [2014 - 2019]
 
-...
+### Contact Details
+
+- 📧 Email: vrsanurag@gmail.com
+- 📧 Email: anuragvrs@gmail.com
+- 📧 Email: rvempaty@fordham.edu
+
 
 
 <!--
