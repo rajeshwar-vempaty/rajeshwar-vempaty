@@ -34,7 +34,7 @@ Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst
 
 ## 👨‍💼 Work Experience
 
-> [**Sembcorp Industries**](https://www.sembcorp.com/en)
+> [**Sembcorp Industries**](https://www.sembcorp.com/en) [Sembcorp Energy India Limited, 2640 MW Power Plant]
 
  
 - Assistant Manager - Business Development [2020 - 2022]
