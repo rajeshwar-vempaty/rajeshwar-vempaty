@@ -1,4 +1,4 @@
-## Rajeshwar Vempaty  [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/rajeshwar-vempaty-5b9a1734/))
+## Rajeshwar Vempaty  [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rajeshwar-vempaty-5b9a1734/)
 
 
 ### About me 👋
