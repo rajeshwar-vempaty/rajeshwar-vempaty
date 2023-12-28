@@ -34,6 +34,9 @@ Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst
 
 ## 👨‍💼 Work Experience
 
+> [**Fordham University**]
+- Teaching Assistant [Sept,2023 -Dec,2023]
+
 > [**Sembcorp Industries**](https://www.sembcorp.com/en) [Sembcorp Energy India Limited, 2640 MW Power Plant]
 
  
