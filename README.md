@@ -3,7 +3,7 @@
 
 ### About me 👋
 
-Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst/Scientist, with a strong educational background and technical skill set. Passionate about turning data into actionable insights. I'm currently pursuing a Master of Science in Data Science from Fordham University, expected to graduate in May 2024.  
+Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst/Scientist, with a strong educational background and technical skill set. Passionate about turning data into actionable insights. Did my master's in Data Science from Fordham University (May 2024).  
 
 ---
 
