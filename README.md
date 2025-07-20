@@ -34,6 +34,9 @@ Hello there! 👋 I'm Rajeshwar (Anurag), an Engineer :arrow_right: Data Analyst
 
 ## 👨‍💼 Work Experience
 
+> [**Zoox**]
+- SAP PM Data Analyst [Jan,2025 - Present]
+
 > [**Fordham University**]
 - Teaching Assistant [Sept,2023 -Dec,2023]
 
