@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  trading-system:
+    build: .
+    container_name: ml-momentum-trading
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./model_registry:/app/model_registry
+      - ./config:/app/config
+    restart: unless-stopped
+    command: python scripts/live_trading.py
+
+  # Optional: Jupyter for research
+  jupyter:
+    build: .
+    container_name: ml-momentum-jupyter
+    ports:
+      - "8888:8888"
+    env_file:
+      - .env
+    volumes:
+      - ./:/app
+    command: jupyter lab --ip=0.0.0.0 --allow-root --no-browser
